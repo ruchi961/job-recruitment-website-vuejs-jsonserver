@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Ruchi123@gmail.com",
+      "password": "hello123"
+    },
+    {
+      "email": "ruchi",
+      "password": "hello122343234",
+      "id": 2
+    },
+    {
+      "email": "ruchi",
+      "password": "hello122343234",
+      "id": 3
+    },
+    {
+      "email": "raj",
+      "password": "3334",
+      "id": 4
+    },
+    {
+      "email": "ruchi",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "ruchi",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "email": "ruchi",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "email": "ruchi",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "xxfdgfdg",
+      "id": 9
+    },
+    {
+      "email": "kiaan",
+      "password": "kiaan",
+      "id": 10
+    }
+  ],
+  "company":[
+    {
+      "id":1,
+      "name":"Infosys",
+      "type":"web programmer"
+    }
+  ]
+}
